@@ -34,6 +34,11 @@ body{
   margin-right: 8px;
   transition: background-color 0.15s;
   text-align: center;
+  outline-style:none;
+
+}
+#UserInput:active{
+  outline-style:none;
 }
 #center{
   margin-left: auto;
