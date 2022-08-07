@@ -23,14 +23,14 @@ const determinateWinner= (userChoice, computerChoice) =>{
   }
   if(userChoice==='rock'){
     if(computerChoice==='paper'){
-      return 'sorry, Computer won!';
+      return 'sorry, computer won!';
     }else {
       return 'congrats, you won!';
     }
   }
   if(userChoice==='paper'){
     if(computerChoice==='scissors'){
-      return 'sorry, Computer won!';
+      return 'sorry, computer won!';
     }else{
       return 'congrats, you won!';
     }
