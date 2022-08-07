@@ -1,0 +1,13 @@
+body{
+  background-color: rgb(132, 0, 255);
+  color: rgb(219, 186, 0);
+}
+.wynik{
+  width: 400px;
+  margin-left: 50px;
+  margin-top: 15px;
+  color: 565656;
+  font-size: 20px;
+  padding: 10px;
+  border: 1px solid #ffd700;
+  box-sizing: border-box;}
